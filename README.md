@@ -1,5 +1,5 @@
 
-# ASOS Pattern Prediction Model 
+# Pattern Prediction Model 
 
 The production-ready refactored code of prototype code is written at src/classifier.py and for the scope of continuous experimentation developed modular experiment.py, to run exploratory data analysis, feature selection, model experimentation without affecting the pre-written production code.
 
